@@ -38,4 +38,7 @@ Exploratory Data Analysis (EDA)
 •	Top neighbourhoods in NYC with respect to average price/day of Airbnb listings
 
 
+conclusion
+
+Based on the graph, the most expensive listings tend to entire homes/apartments located in Brooklyn and Manhattan with an average price of 178 USD for entire homes in Brooklyn and an average price of 249 USD for entire homes in Manhattan respectively. This again may suggest that due to the popularity of those boroughs, this influences the price of the listings offered.
 
